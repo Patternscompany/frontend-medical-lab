@@ -1,2 +1,2 @@
-const API_BASE_URL = 'http://localhost:5003/api';
+const API_BASE_URL = 'https://backend-med-ruddy.vercel.app/api';
 export default API_BASE_URL;
